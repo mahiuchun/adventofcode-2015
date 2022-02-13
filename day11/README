@@ -1,0 +1,3 @@
+Second requirement isn't strictly checked in the code.
+
+For simplicity there is no separate part2 program; output of part1 is set as input to get the answer of part2.
